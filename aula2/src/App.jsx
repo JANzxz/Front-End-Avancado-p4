@@ -4,6 +4,7 @@ import RenderizaBackOuFront from './components/RenderizandoBackOuFront'
 import TrabalhandoComImagens from './components/TrabalhandoComImagens'
 import HookContador from './components/HookContador'
 import HookMegaSena from './components/HookMegaSena'
+import HookQuina from './components/HookQuina'
 
 
 const App = () => {
@@ -28,22 +29,28 @@ const App = () => {
 
 
       <h1>Exercicio 3</h1>
-      <TrabalhandoComImagens />
+      <h4><TrabalhandoComImagens /></h4>
 
       <br />
       <br />
       <br />
 
     <h1>Exercicio 4</h1>
-    <h3><HookContador /></h3>
+    <h4><HookContador /></h4>
 
       <br/>
-      <hr/>
+      <br/>
       <br/>
 
     <h1>Exercicio 5</h1>
-      
-    <h3><HookMegaSena/></h3>
+    <h4><HookMegaSena/></h4>
+
+    <br/>
+    <br/>
+    <br/>
+
+    <h1>Exercicio 6</h1>
+    <h4><HookQuina></HookQuina></h4>
 
     </div>
   )

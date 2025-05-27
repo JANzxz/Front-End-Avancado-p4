@@ -1,3 +1,6 @@
+// E importante criar a pasta assets para colocar as imagens lá
+// Não se esquecer de importar a imagem
+
 import React from 'react'
 import UrubuDoPiximg from "../assets/UrubuDoPix.jpg"
 
